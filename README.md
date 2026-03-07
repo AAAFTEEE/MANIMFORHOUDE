@@ -1,2 +1,15 @@
-# ManimSourceFile
-Manim open-source repository.
+# Manim For Houde
+> 厚德博学 文化天下
+> **MANIMFORHOUDE** 是由[赣州市厚德学校](https://www.houdeschool.cn/)的学生制作的 Manim 动画代码库，用于制作高质量数学与理科可视化动画。
+## Manim
+Manim 是一个用于创建数学动画的 Python 库，旨在将抽象的概念转化为直观的可视化内容。
+
+### 核心特性
+- **数学友好**：原生支持 LaTeX 公式渲染。
+- **脚本驱动**：通过 Python 代码定义场景与动画逻辑。
+- **高质量输出**：可生成视频、GIF 或图片序列，支持高清渲染。
+
+### 典型应用场景
+- 数学、物理等学科的教学视频制作
+- 学术报告或论文中的动态图解
+- 生成算法可视化或数据演示动画
