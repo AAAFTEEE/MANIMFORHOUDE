@@ -3,12 +3,13 @@
 
 **MANIMFORHOUDE** ，即`Manim For Houde`，是由[赣州市厚德学校](https://www.houdeschool.cn/)的学生制作的 Manim 动画代码库，用于制作高质量数学与理科可视化动画。
 
-## 存储内容📄
+## 内容📄
 |名称|描述|适龄|
 |--------|--------|--------|
+|**[000_使用教程](https://github.com/AAAFTEEE/MANIMFORHOUDE/tree/main/000_%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)**|在该目录中，可以学习如何使用该库中的代码。|-|
 |**[001_凸透镜成像公式](https://github.com/AAAFTEEE/MANIMFORHOUDE/tree/main/001_%E5%87%B8%E9%80%8F%E9%95%9C%E6%88%90%E5%83%8F%E5%85%AC%E5%BC%8F)**|用于存储视频《【manim】初中生用一节晚自习推导出了凸透镜成像公式?》的开源代码。|初二、初三|
 |**[002_元素周期表](https://github.com/AAAFTEEE/MANIMFORHOUDE/tree/main/002_%E5%85%83%E7%B4%A0%E5%91%A8%E6%9C%9F%E8%A1%A8)**|用于存储视频《【manim】使用 manim 打印化学元素周期表》的开源代码以及高清原视频。|初三|
-|……|更多内容正在制作中...|……|
+|-|更多内容正在制作中...|-|
 
 ## Manim⚙️
 Manim 是一个用于创建数学动画的 Python 库，旨在将抽象的概念转化为直观的可视化内容。
@@ -26,6 +27,10 @@ Manim 是一个用于创建数学动画的 Python 库，旨在将抽象的概念
 -   **数据与模型演示**：动态展示统计过程、机器学习模型的决策边界演变等。
 
 *（以上内容为 腾讯元宝 生成）*
+## 使用教程
+
+见 **[000_使用教程](https://github.com/AAAFTEEE/MANIMFORHOUDE/tree/main/000_%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)**。
+
 ## 厚德学校以及创作背景🏫
 > 厚德博学，文化天下
 
