@@ -1,8 +1,8 @@
-# MANIMMFORHOUDE
+# MANIMMFORHOUDE🚀
 
 
 **MANIMFORHOUDE** ，即`Manim For Houde`，是由[赣州市厚德学校](https://www.houdeschool.cn/)的学生制作的 Manim 动画代码库，用于制作高质量数学与理科可视化动画。
-## Manim
+## Manim⚙️
 Manim 是一个用于创建数学动画的 Python 库，旨在将抽象的概念转化为直观的可视化内容。
 
 ### 核心特性
@@ -18,17 +18,17 @@ Manim 是一个用于创建数学动画的 Python 库，旨在将抽象的概念
 -   **数据与模型演示**：动态展示统计过程、机器学习模型的决策边界演变等。
 
 *（以上内容为 腾讯元宝 生成）*
-## 厚德学校以及创作背景
+## 厚德学校以及创作背景🏫
 > 厚德博学，文化天下
 
 它是我们的母校，是我们所向往的地方。我热爱在厚德学校生活，这里环境优美、设施齐全、教学生动、资源丰富，食堂饭菜可口鲜美、宿舍环境温馨。
 
 在这样的环境中，有些学生（比如我）不由自主地拿起键盘，追求自己的爱好，写下一行行 Python 代码，反复调试，最终无憾 `Release Successfully`。既然成功了，那么我就想发布一下，于是，我看到了我们学校的 QQ 频道，慢慢地，就有了这个库。
 
-## MANIMFORHOUDE 的来源
+## MANIMFORHOUDE 的来源🎞️
 
 见同目录下的[History.md](https://github.com/AAAFTEEE/MANIMFORHOUDE/blob/main/History.md)。
 
-## 结语
+## 结语💝
 
-资源还不全，MANIMFORHOUDE 也还很年轻，别忘了 Star 啊！
+资源还不全，MANIMFORHOUDE 也还很年轻，别忘了 Star 啊！💡
