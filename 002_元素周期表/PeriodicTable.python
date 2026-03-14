@@ -1,3 +1,4 @@
+# 代码大部分都是豆包 AI 生的，AAAFTEEE 修改了一部分。
 from manim import *
 
 # ========== 1. 定义元素类别颜色（化学规范配色） ==========
@@ -98,7 +99,7 @@ positions = {
     89:(8,2),90:(8,3),91:(8,4),92:(8,5),93:(8,6),94:(8,7),95:(8,8),96:(8,9),97:(8,10),98:(8,11),99:(8,12),100:(8,13),101:(8,14),102:(8,15),103:(8,16),
 }
 
-class PeriodicTableByGroups(Scene):
+class PeriodicTable(Scene):
     def construct(self):
         # ========== 基础配置 ==========
         CHINESE_FONT = "SimSun"  # Windows必装宋体，中文100%显示
